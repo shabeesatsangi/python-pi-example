@@ -2,7 +2,8 @@
 
 def main(msg):
     #parent file
+    #anothe file of same program
     print(msg)
-//anothe file of same program
+
 
 main(" hello people")
