@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 
 def main(msg):
-    #parent file
-    #anothe file of same program
-    #3rd line
+    #no longer needs comments
     print(msg)
 
+def secondary():
+    print("new function")
 
 main(" hello people")
